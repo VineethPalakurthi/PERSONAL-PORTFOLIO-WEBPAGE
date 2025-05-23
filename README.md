@@ -29,3 +29,5 @@
 *Background images with text overlays*
 
 *Font Awesome social icons in the footer*
+
+![Image](https://github.com/user-attachments/assets/ce0b8dca-48c1-4ce8-ba6e-f39c4982149e)
